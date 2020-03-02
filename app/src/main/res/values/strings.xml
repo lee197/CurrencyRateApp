@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ForeignExchangeApp</string>
+    <string name="eur">EUR:</string>
+    <string name="eur_hint">euro amount</string>
+    <string name="usd">USD</string>
+    <string name="currency_value">value</string>
+    <string name="gbp">GBP</string>
+    <string name="nzd">NZD</string>
+    <string name="sek">SEK</string>
+    <string name="cny">CNY</string>
+    <string name="chf">CHF</string>
+    <string name="cad">CAD</string>
+    <string name="aud">AUD</string>
+    <string name="jpy">JPY</string>
+    <string name="confirm_button">Confirm</string>
+</resources>
